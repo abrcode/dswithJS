@@ -1,5 +1,5 @@
 /**
- * Stack
+ * Stack : It works on last in first out (LIFO)
  */
 
 /**
