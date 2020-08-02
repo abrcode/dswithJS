@@ -3,7 +3,7 @@
  */
 
 /**
- function of stack :
+ function of stack : this is simple satck which work as array
 push : place the data on top
 pop : remove data from the top of the stack
 peek :  for dispalying top element of stack ,

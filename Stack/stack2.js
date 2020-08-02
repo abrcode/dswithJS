@@ -1,4 +1,4 @@
-//create a stack
+//creating  a stack
 var Stack = function() {
 
    this.count=0 //for checking how many items in stack
